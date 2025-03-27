@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "Usama Khan",
+        "year": "2009",
+        "genre": "Motivational",
+        "read": false
+    },
+    {
+        "title": "Crypto",
+        "author": "Mohib Ali",
+        "year": "2023",
+        "genre": "Learning",
+        "read": true
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Hamza Khan",
+        "year": "2000",
+        "genre": "Survival of Life",
+        "read": false
+    }
+]
